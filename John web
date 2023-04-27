@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>BALOGUN JOHN OJUESU CURRICULUM VITAE
+<link rel="stylesheet" href="CSS1.css">
+<title>
+JohnBalogun website
+</title></head>
+<body>
+<h1>No. 6 OYEDELE HOUSE ABORU IYANA-IPAJA, LAGOS</h1>
+<p>CELL:<a href="tel:+2347085864399"> +2347085864399</a> | <a href="tel:+2347040612061">+2347040612061</a> E-MAIL: <i>mail me now <a href= "mailto:johnnebuano96@gmail.com"target ="_blank">johnnebuano96@gmail.com</a></i></p>
+
+<p><a href="homepage.html">HOME</a> |
+<a href="edu.html">EDUCATION AND QUALIFICATION</a> |
+<a href="work.html">WORK EXPERIENCE</a> |
+<a href="conf.html">CONFERENCE PRESENTATIONS</a> |
+<a href="tech.html">TECHNICAL SKILLS</a> |
+<a href="interest.html">INTERESTS</a> |
+<a href="ach.html">ACHIVEMENT</a> |
+<a href="lang.html">LANGUAGES</a> |
+<a href="ref.html">REFERENCE</a>
+<p>&emsp;</p>
+<h2>WELCOME TO MY SIMPLE WEBSITE GALLERY&emsp; 
+<a href="pdf.html">CLICK TO VIEW PDF OF MY CV</a></h2>
+<p>&ensp;</p>
+<img src="1.png" width="200" height="210"/>
+<img src="2.png" width="200" height="210"/>
+<img src="3.png" width="200" height="210"/>
+<img src="4.png" width="222" height="220"/>
+<img src="5.png" width="222" height="220"/>
+<img src="6.png" width="222" height="220"/>
+<img src="7.png" width="222" height="220"/>
+<img src="8.png" width="222" height="220"/>
+<img src="9.png" width="222" height="220"/>
+<img src="10.png" width="222" height="220"/>
+<img src="11.png" width="222" height="220"/>
+<img src="12.png" width="222" height="220"/>
+<img src="13.png" width="222" height="220"/>
+<img src="14.png" width="222" height="220"/>
+<img src="15.png" width="222" height="220"/>
+<img src="16.png" width="222" height="220"/>
+</body>
+</html>
+
